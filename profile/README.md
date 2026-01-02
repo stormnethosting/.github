@@ -1,5 +1,3 @@
-<div align="center">
-
 # 🌩️ Stormnet Hosting
 
 **UK-based hosting & infrastructure, engineered for reliability**
