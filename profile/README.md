@@ -11,6 +11,16 @@ From shared hosting to dedicated infrastructure, we provide reliable, high-perfo
 
 ---
 
+## ✨ Why Choose Stormnet Hosting?
+
+- **99.9% Uptime Guarantee** - Enterprise-grade infrastructure ensures maximum reliability
+- **24/7/365 Support** - Expert technical support whenever you need it
+- **High-Performance Hardware** - Latest generation processors and SSD storage
+- **Global Network** - Multiple data center locations for optimal performance
+- **Scalable Solutions** - Grow your business with our flexible hosting plans
+
+---
+
 ## 🚀 Our Services
 - **cPanel Web Hosting**
 - **cPanel Reseller Hosting**
@@ -21,14 +31,6 @@ From shared hosting to dedicated infrastructure, we provide reliable, high-perfo
 - **Network Services**
 
 ---
-
-## ✨ Why Choose Stormnet Hosting?
-
-- **99.9% Uptime Guarantee** - Enterprise-grade infrastructure ensures maximum reliability
-- **24/7/365 Support** - Expert technical support whenever you need it
-- **High-Performance Hardware** - Latest generation processors and SSD storage
-- **Global Network** - Multiple data center locations for optimal performance
-- **Scalable Solutions** - Grow your business with our flexible hosting plans
 
 ## Quick Links
 
