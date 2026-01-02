@@ -1,61 +1,37 @@
-<div align="center">
+# Stormnet Hosting — Enterprise Hosting Solutions ⚡
 
-# 🌩️ Stormnet Hosting
+**Premium web hosting and infrastructure services for businesses of all sizes.**  
+From shared hosting to dedicated infrastructure, we provide reliable, high-performance solutions backed by 24/7 expert support.
 
-**UK-based hosting & infrastructure, engineered for reliability**
-
-</div>
-
----
-
-## 🧭 About
-
-Stormnet Hosting is a UK-based hosting and infrastructure provider delivering stable, high-performance services for individuals, businesses, and developers.
-
-We design, operate, and maintain our own platforms and network, prioritising reliability, security, and clean engineering over shortcuts or overselling. Our infrastructure is built for real-world workloads and long-term operation.
+<p align="center">
+  <a href="https://stormnethosting.com">Website</a> •
+  <a href="https://stormnethosting.com/contact">Contact Us</a> •
+  <a href="https://stormnethosting.com/support">Support</a>
+</p>
 
 ---
 
-## 🛠️ Services
-
-### Hosting & Infrastructure
-
-| Service |
-|----------------------|
-| **Shared Web Hosting** |
-| **Reseller Web Hosting** |
-| **VPS Hosting** |
-| **VPS Reseller Hosting** |
-| **Dedicated Server Hosting** |
-| **Data Centre Colocation** |
-
-<sub>*Pricing varies based on configuration and availability.</sub>
-
----
-
-### Platforms & Solutions
+## 🚀 Our Services
 - **cPanel Web Hosting**
 - **cPanel Reseller Hosting**
-- **Plesk Web Hosting**
-- **Plesk Reseller Hosting**
 - **Virtual Private Servers (VPS)**
-- **Virtual Dedicated Servers (VDS)**
+- **Virtual Dedicated Servers**
 - **Bare Metal Dedicated Servers**
 - **Data Centre Colocation**
 - **Network Services**
 
-All services are backed by actively managed infrastructure and in-house automation.
-
 ---
 
-## 🤝 Contact
+## ✨ Why Choose Stormnet Hosting?
+
+- **99.9% Uptime Guarantee** - Enterprise-grade infrastructure ensures maximum reliability
+- **24/7/365 Support** - Expert technical support whenever you need it
+- **High-Performance Hardware** - Latest generation processors and SSD storage
+- **Global Network** - Multiple data center locations for optimal performance
+- **Scalable Solutions** - Grow your business with our flexible hosting plans
+
+## Quick Links
 
 - 🌐 **Website:** https://stormnethosting.com  
-- 💬 **Discord:** https://discord.gg/stormnethosting  
-- 📧 **Email:** contact@stormnethosting.com  
-
----
-
-<div align="center">
-<sub>© Stormnet Hosting — Built for real-world workloads.</sub>
-</div>
+- 📞 **Support:** https://stormnethosting.com/support  
+- � **Sales:** sales@stormnethosting.com
